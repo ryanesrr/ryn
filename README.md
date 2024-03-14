@@ -25,12 +25,6 @@
             <a href="flower.html">Klik disini</a>
         </button>
         <!--  
- 
-  CSS Blossoming Flowers at Magical Night.
-  I've taken some inspiration by Yup Nguyen's Artwork: https://dribbble.com/shots/11096994-Virtual-Garden.
-  Made with Pure CSS & ♥
--->
-
 <body class="not-loaded">
   <div class="night"></div>
   <div class="flowers">
